@@ -1,11 +1,13 @@
 {
   "version": "1.1.1",
-  "download_url": "",
-  "sha256": "",
+  "download_url": "https://github.com/MuTal19/Phoenix_Update/releases/download/v1.1.1/Phoenix.exe",
+  "sha256": "09cb39317077c34c1b4f7a8a232ba9ed0aeb7c86d51e23208b9c116917406830",
   "mandatory": false,
   "notes": [
     "Phoenix V1.1.1 Test Güncellemesi",
-    "Güncelleme sunucusu bağlantısı başarıyla test ediliyor.",
-    "Yeni sürüm algılama mekanizması doğrulanıyor."
+    "Güvenli güncelleme altyapısı eklendi.",
+    "SHA-256 dosya doğrulama mekanizması eklendi.",
+    "Güncelleme sunucusu bağlantısı aktif edildi.",
+    "Kullanıcı verileri güncelleme sisteminden ayrı tutulur."
   ]
 }
