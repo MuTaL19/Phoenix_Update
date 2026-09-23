@@ -1,13 +1,15 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.1/Phoenix.exe",
-  "sha256": "47c2948e27a47bb354b730e9509ec6e9dc9eabba96a30ee8e397cda2092dd868",
+  "version": "1.1.2",
+  "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.2/Phoenix.exe",
+  "sha256": "642C69F7B75DFB21DE3E277E95282D4178090513740BECB01A359BA9EAD7EF16",
   "mandatory": false,
   "notes": [
-    "Phoenix V1.1.1 Test Güncellemesi",
-    "Güvenli güncelleme altyapısı eklendi.",
-    "SHA-256 dosya doğrulama mekanizması eklendi.",
-    "Güncelleme sunucusu bağlantısı aktif edildi.",
-    "Kullanıcı verileri güncelleme sisteminden ayrı tutulur."
+    "Phoenix V1.1.2 - Caller-ID ve Cari Yönetim Güncellemesi",
+    "Caller-ID ve Call Card sistemi eklendi.",
+    "Arama geçmişi ve yeni/görüldü takibi eklendi.",
+    "Caller-ID USB otomatik yeniden bağlantı desteği eklendi.",
+    "Müşteri cari bakiye işlemleri eklendi.",
+    "Windows / PyInstaller multiprocessing uyumluluğu düzeltildi.",
+    "Mevcut kullanıcı verileri güncelleme sırasında korunur."
   ]
 }
