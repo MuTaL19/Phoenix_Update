@@ -1,14 +1,16 @@
 {
-  "version": "1.1.3",
-  "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.3/Phoenix.exe",
-  "sha256": "46C3F0E03E305653AF3DB222C96B8FD9D2A3DABD60414E3FB7ACFD219FB89100",
+  "version": "1.1.4",
+  "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.4/Phoenix.exe",
+  "sha256": "80C4FD67CFF9DFAF5436D233336490EA154D3B320D625B3B29742917399F61C4",
   "mandatory": false,
   "notes": [
-    "Phoenix V1.1.3 - Otomatik Yedekleme Düzeltmesi",
-    "Program kapanışındaki otomatik yedekleme sistemi düzeltildi.",
-    "Günlük yedekler yıl / ay klasör yapısında düzenlenir.",
-    "Aynı gün içinde tek günlük yedek tutulur ve son durumla güvenli şekilde güncellenir.",
-    "Kritik işlem öncesi güvenlik yedekleri korunur.",
+    "Phoenix V1.1.4 - Hızlı Müşteri ve Sipariş İşlemleri",
+    "Müşteri listesine sağ tık hızlı işlem menüsü eklendi.",
+    "Seçili müşteriden doğrudan Sipariş Al özelliği eklendi.",
+    "Tahsilat Gir ve Bakiye İşlemi seçeneklerine hızlı erişim eklendi.",
+    "Sipariş / Servis ekranına hızlı müşteri araması eklendi.",
+    "Müşteri; ad, telefon, mahalle ve adres bilgileriyle aranabilir.",
+    "Windows otomatik güncelleme sürecindeki işlem bekleme sorunu giderildi.",
     "Mevcut kullanıcı verileri korunur."
   ]
 }
