@@ -1,14 +1,11 @@
 
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.5/Phoenix.exe",
-  "sha256": "6385771E005C14C5DDFA9DA09BE7219D6AF14D9A42255963D68B4CA936341252",
+  "sha256": "023DA140809222715452E40B4DD6E4250FF7D3E2664264C6D7281EF29152B486",
   "mandatory": false,
   "notes": [
-    "Phoenix V1.1.5 - Görsel Arayüz İyileştirmeleri",
-    "Müşteri kartı iki sütunlu olarak düzenlendi.",
-    "Sipariş / Servis ekranı görsel olarak iyileştirildi.",
-    "Mevcut kullanıcı verileri korunur."
+    "Phoenix V1.1.6 – Müşteri Raporu İskonto Sütunu
   ]
 }
   
