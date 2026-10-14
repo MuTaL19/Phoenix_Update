@@ -1,16 +1,14 @@
+
 {
-  "version": "1.1.4",
-  "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.4/Phoenix.exe",
-  "sha256": "80C4FD67CFF9DFAF5436D233336490EA154D3B320D625B3B29742917399F61C4",
+  "version": "1.1.5",
+  "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.5/Phoenix.exe",
+  "sha256": "6385771E005C14C5DDFA9DA09BE7219D6AF14D9A42255963D68B4CA936341252",
   "mandatory": false,
   "notes": [
-    "Phoenix V1.1.4 - Hızlı Müşteri ve Sipariş İşlemleri",
-    "Müşteri listesine sağ tık hızlı işlem menüsü eklendi.",
-    "Seçili müşteriden doğrudan Sipariş Al özelliği eklendi.",
-    "Tahsilat Gir ve Bakiye İşlemi seçeneklerine hızlı erişim eklendi.",
-    "Sipariş / Servis ekranına hızlı müşteri araması eklendi.",
-    "Müşteri; ad, telefon, mahalle ve adres bilgileriyle aranabilir.",
-    "Windows otomatik güncelleme sürecindeki işlem bekleme sorunu giderildi.",
+    "Phoenix V1.1.5 - Görsel Arayüz İyileştirmeleri",
+    "Müşteri kartı iki sütunlu olarak düzenlendi.",
+    "Sipariş / Servis ekranı görsel olarak iyileştirildi.",
     "Mevcut kullanıcı verileri korunur."
   ]
 }
+  
