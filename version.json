@@ -1,11 +1,12 @@
-
 {
   "version": "1.1.6",
-  "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.5/Phoenix.exe",
+  "download_url": "https://github.com/MuTaL19/Phoenix_Update/releases/download/v1.1.6/Phoenix.exe",
   "sha256": "023DA140809222715452E40B4DD6E4250FF7D3E2664264C6D7281EF29152B486",
   "mandatory": false,
   "notes": [
-    "Phoenix V1.1.6 – Müşteri Raporu İskonto Sütunu
+    "Phoenix V1.1.6 - Müşteri Raporu İskonto Sütunu",
+    "Hesap Hareketleri tablosuna işlem bazında iskonto tutarı eklendi.",
+    "Mevcut bakiye hesaplama mantığı korunur.",
+    "Mevcut kullanıcı verileri korunur."
   ]
 }
-  
